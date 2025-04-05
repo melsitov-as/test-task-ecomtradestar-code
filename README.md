@@ -17,4 +17,4 @@
     # или
     yarn build
     ```
-* Facebook/Instagram — проект Meta Platforms Inc., деятельность которой в России запрещена.
+* Facebook/Instagram — принадлежит Meta Platforms Inc., которая признана экстремистской организацией на территории РФ.
