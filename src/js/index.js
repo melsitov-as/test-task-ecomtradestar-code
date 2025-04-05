@@ -10,7 +10,7 @@ i18next
       fallbackLng: 'en',
       debug: true,
       backend: {
-        // для загрузки на github pages изменить loadpath на этот loadPath: 'locales/{{lng}}/translation-{{lng}}.json'
+        // для загрузки на github pages изменить loadPath на этот loadPath: 'locales/{{lng}}/translation-{{lng}}.json'
         loadPath: '../locales/{{lng}}/translation-{{lng}}.json',
       },
       detection: {
