@@ -71,7 +71,6 @@
   width: 1786px;
   margin: 0 auto;
   text-align: center;
-  // margin: 0 0 0 382px;
   padding: 0;
   font-family: global.$europa-bold;
   font-size: 64px;
@@ -81,7 +80,6 @@
 }
 
 .header__title-text {
-  // margin: 0 0 36px 828px;
   margin: 0 auto 36px;
   text-align: center;
   width: 650px;
@@ -178,12 +176,3 @@
   .header__change-language-button-text {
   color: global.$basic-black;
 }
-
-// .header__change-language-button:hover {
-//   background: global.$white-transparent-1;
-//   border: 1px solid global.$basic-white;
-// }
-
-// .header__change-language-button:hover .header__change-language-button-text {
-//   color: global.$basic-white;
-// }
