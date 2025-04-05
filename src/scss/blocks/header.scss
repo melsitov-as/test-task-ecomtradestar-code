@@ -1,0 +1,198 @@
+@use '../global.scss';
+
+.header {
+  margin: 0 auto;
+  padding-top: 44px;
+  padding-bottom: 286px;
+  width: global.$desktop-width;
+  background: linear-gradient(
+      to bottom,
+      global.$black-transparent-1 0,
+      global.$black-transparent-1 100%
+    ),
+    // url(../../img/header-bg-img.jpg);
+    url(../img/header-bg-img.jpg);
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+
+// .header__container {
+//   display: block;
+//   width: global.$desktop-width;
+//   margin: 0 auto;
+
+//   z-index: 1;
+// }
+
+.header__nav {
+  margin: 0 0 50px 144px;
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.header__nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 690px;
+  margin: 15px 0 0 160px;
+}
+
+.header__nav-link {
+  color: global.$basic-white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: global.$europa;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.header__search-button {
+  display: block;
+  margin: 9px 0 0 158px;
+}
+
+.header__call-button {
+  margin: 0 0 0 24px;
+  padding: 16px 0;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  background-color: global.$basic-black;
+  color: global.$basic-white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.header__call-button-text {
+  display: inline-block;
+  font-family: global.$sansita-bold;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+}
+
+.header__title {
+  width: 1786px;
+  margin: 0 auto;
+  text-align: center;
+  // margin: 0 0 0 382px;
+  padding: 0;
+  font-family: global.$europa-bold;
+  font-size: 64px;
+  font-style: normal;
+  color: global.$basic-white;
+  text-transform: uppercase;
+}
+
+.header__title-text {
+  // margin: 0 0 36px 828px;
+  margin: 0 auto 36px;
+  text-align: center;
+  width: 650px;
+  padding: 0;
+  color: global.$basic-white;
+  font-family: global.$europa;
+  font-size: 36px;
+  font-style: normal;
+}
+
+.header__title-button {
+  width: 323px;
+  margin: 0 auto;
+  padding: 17px 0 15px;
+  border-radius: 3px;
+  background-color: global.$basic-white;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.header__title-button-text {
+  font-family: global.$europa-bold;
+  color: global.$basic-black;
+  font-size: 20px;
+  font-style: normal;
+  display: inline-block;
+}
+
+.header__change-language-container {
+  margin: 0 0 157px 140px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.header__change-language-container--single {
+  margin-bottom: 190px;
+}
+
+.header__change-language-title {
+  width: 165px;
+  margin: 0;
+  padding: 0;
+  color: global.$basic-white;
+  font-family: global.$europa;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.header__languages-list {
+  margin: 0 0 0 10px;
+  padding: 0;
+}
+
+.header__languages-item {
+  margin: 0;
+  padding: 0;
+}
+
+.header__languages-item + .header__languages-item {
+  margin-top: 15px;
+}
+
+.header__change-language-button {
+  display: block;
+  width: 110px;
+  box-sizing: border-box;
+  color: global.$basic-white;
+  text-decoration: none;
+  padding: 7px;
+  border: 1px solid global.$basic-white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.header__change-language-button-text {
+  display: inline-block;
+  margin-left: 10px;
+  color: global.$basic-white;
+  font-family: global.$europa;
+  font-size: 14px;
+  font-style: normal;
+}
+
+.header__change-language-button.header__change-language-button--active {
+  background: global.$basic-white;
+  border: 1px solid global.$basic-black;
+}
+
+.header__change-language-button.header__change-language-button--active
+  .header__change-language-button-text {
+  color: global.$basic-black;
+}
+
+// .header__change-language-button:hover {
+//   background: global.$white-transparent-1;
+//   border: 1px solid global.$basic-white;
+// }
+
+// .header__change-language-button:hover .header__change-language-button-text {
+//   color: global.$basic-white;
+// }

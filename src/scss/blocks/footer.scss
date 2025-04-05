@@ -1,0 +1,45 @@
+@use '../global.scss';
+
+.footer {
+  width: global.$desktop-width;
+  margin: 0 auto;
+  padding-bottom: 80px;
+  background: global.$basic-black;
+}
+
+.footer__container {
+  width: 100%;
+  padding-top: 36px;
+  background: global.$basic-black;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.footer__author {
+  margin-left: 123px;
+  margin-top: 60px;
+}
+
+.footer__author-description {
+  font-family: global.$europa;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  color: global.$basic-white;
+}
+
+.footer__author-company {
+  font-family: global.$europa-bold;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  color: global.$basic-white;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.footer__bg-social {
+  margin-left: 1130px;
+}

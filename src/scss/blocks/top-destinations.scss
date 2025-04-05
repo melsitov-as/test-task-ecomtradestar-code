@@ -1,0 +1,55 @@
+@use '../global.scss';
+
+.top-destinations {
+  width: global.$desktop-width;
+  margin: 0 auto;
+  padding-top: 170px;
+  padding-bottom: 194px;
+}
+
+.top-destination__container {
+  width: 1760px;
+  margin-left: 144px;
+}
+
+.top-destinations__title {
+  margin: 0 0 4px 0;
+  padding: 0;
+  font-family: global.$europa-bold;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  color: global.$basic-black;
+}
+
+.top-destinations__description {
+  margin: 0 0 45px 0;
+  padding: 0;
+  font-family: global.$europa-bold;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  color: global.$basic-black;
+}
+
+.top-destinations__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.top-destinations__item {
+  position: relative;
+  width: 320px;
+}
+
+.top-destinations__item-link {
+  position: absolute;
+  text-decoration: none;
+  color: global.$basic-white;
+  font-family: global.$europa-bold;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: normal;
+  top: 115px;
+  left: 53px;
+}

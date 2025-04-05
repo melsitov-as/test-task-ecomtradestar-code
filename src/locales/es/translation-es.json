@@ -1,0 +1,73 @@
+{
+  "english-lang": "Inglés",
+  "spanish-lang": "Español",
+  "key": "hola mundo",
+  "greeting": "Hola",
+  "description": "Este es un ejemplo sencillo.",
+  "action": "Cambiar idioma",
+
+  "header-nav-destinations": "Destinos",
+  "header-nav-food": "Alimento",
+  "header-nav-well-being": "Bienestar",
+  "header-nav-sport": "Deporte",
+  "header-nav-family": "Familia",
+  "header-nav-lifestyle": "Estilo de vida",
+  "button-call-to-action": "Llamada a la acción",
+  "header-title": "Inspiración para viajar de personas reales",
+  "header-title-text": "Reserva inteligentemente, viaja sencillo",
+  "title-button-text": "Empieza a planificar tu viaje",
+
+  "posts-item-favorites-button-text": "Elefante de Aenea",
+  "posts-item-bookmarks-button-text": "Alguno",
+  "posts-item-title": "Entero Mecenas Eget Viverra",
+  "posts-item-post-date": "28 de junio de 2018",
+  "posts-item-shares-text": "1K acciones",
+  "posts-item-short-text": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido esté disponible.",
+  "posts-item-view-button": "Ver publicación",
+
+  "advert-subject": "Viajar",
+  "advert-title": "Representación fotorrealista de Richard Norton como fotos reales",
+  "advert-description": "Incentivar progresivamente los sistemas cooperativos mediante funcionalidades técnicamente sólidas. Generar datos fiables y sin interrupciones.",
+  "advert-button": "Empieza a planificar tu viaje",
+
+  "top-destinations-title": "Principales destinos",
+  "top-destinations-description": "Marca un destino más de tu lista de deseos con una de nuestras vacaciones más populares en 2022",
+  "top-destinations-item-text": "República Dominicana",
+
+  "categorites-item-name-link": "Nombre de la categoría",
+  "categories-current-date": "Hace 1 mes",
+  "categories-current-title": "Marca un destino más de tu lista de deseos con una de nuestras vacaciones más populares en 2022",
+  "categories-current-text": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible.Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible.",
+  "categories-current-view-link": "Ver publicación",
+  "categories-news-item-title": "Texto de marcador de posición.",
+  "categories-news-item-date": "21 de marzo de 2021",
+  "categories-articles-title": "Éste es un texto de marcador de posición.",
+  "categories-articles-item-text": "Marca un destino más de tu lista de deseos con una de nuestras vacaciones más populares en 2022",
+  "categories-articles-item-date": "21 de marzo de 2021",
+
+  "footer-author-description": "Diseñado y desarrollado por",
+
+  "header-single-breadcrumbs-link-home": "Hogar",
+  "header-single-breadcrumbs-link-growth": "Crecimiento",
+  "header-single-breadcrumbs-current": "5 reglas eficientes para organizar tu lugar de trabajo",
+
+  "header-single-title": "5 reglas eficientes para organizar tu lugar de trabajo",
+  "header-single-text": "Consejos sobre relaciones que los terapeutas de pareja dan todo el tiempo",
+  "header-single-author-name": "por Joanna Wellick",
+  "header-single-author-read-text": "2 minutos de lectura",
+  "header-single-views-text": "1.6K vistas",
+  "header-single-social-shares-text": "1.2K acciones",
+
+  "single-social-views": "puntos de vista",
+  "single-social-shares": "acciones",
+
+  "post-single-text-paragraph-1": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible.",
+  "post-single-text-paragraph-2": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible.",
+  "post-single-text-blockquote": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible.",
+  "post-single-text-paragraph-3": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible.",
+  "post-single-text-paragraph-4": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible.",
+  "post-single-text-intermediate-title": "Este es un texto de marcador de posición.",
+  "post-single-text-paragraph-5": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible.",
+  "post-single-text-paragraph-item": "Este es un texto de marcador de posición.",
+  "post-single-text-paragraph-6": "Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible. Este es un texto de marcador de posición. Se utiliza para rellenar el espacio en los diseños antes de que el contenido real esté disponible."
+}

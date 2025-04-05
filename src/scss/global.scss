@@ -1,0 +1,51 @@
+@use 'fonts.scss';
+
+$europa: 'Europa Regular';
+$europa-bold: 'Europa Bold';
+$sansita: 'Sansita Regular';
+$sansita-bold: 'Sansita Bold';
+$roboto: 'Roboto';
+$roboto-bold: 'Roboto Bold';
+
+$basic-white: #ffffff;
+$basic-black: #000000;
+$basic-black-single: #121416;
+$basic-grey: #6c757d;
+$basic-violet: #7a65e1;
+$light-grey: #d6d6d6;
+$border-grey: #6e6e6e;
+$border-grey-2: #f5f6f8;
+$single-bg-grey: #f5f5f5;
+$black-transparent-1: rgba(0, 0, 0, 0.39);
+$black-transparent-2: rgba(0, 0, 0, 0.25);
+$black-transparent-3: rgba(0, 0, 0, 0.5);
+$white-transparent-1: rgba(255, 255, 255, 0.3);
+$grey-transparent-1: rgba(108, 117, 125, 0.4);
+
+$desktop-width: 1997px;
+$single-page-desktop-width: 2005px;
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
